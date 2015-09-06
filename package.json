@@ -1,0 +1,29 @@
+{
+  "name": "typed-buffer",
+  "version": "1.0.0",
+  "description": "TypeScript typings for the core buffer library",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc test/test.ts --module commonjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weswigham/typed-buffer.git"
+  },
+  "keywords": [
+    "typescript",
+    "buffer",
+    "typed",
+    "module",
+    "definitely"
+  ],
+  "author": "weswigham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weswigham/typed-buffer/issues"
+  },
+  "homepage": "https://github.com/weswigham/typed-buffer#readme",
+  "devDependencies": {
+    "typescript": "^1.6.0-beta"
+  }
+}
